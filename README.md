@@ -7,7 +7,7 @@ Proyek ini dikembangkan untuk memenuhi tugas Metodologi Penelitian Informatika o
 🎓 Isma Sifa Aulia
 🆔 NIM: 234110601072
 📘 Mahasiswa Informatika - Semester 4
-🏫 Universitas [Isi Nama Kampus Anda]
+🏫 Universitas Islam Negri Prof.K.H.Saifuddinzuhri Purwokerto
 
 📁 Struktur Proyek
 bash
